@@ -17,7 +17,7 @@
 		"react-dom": "18.2.0",
 		"@dokploy/server": "workspace:*",
 		"@hono/node-server": "^1.12.1",
-		"hono": "^4.5.8",
+		"hono": "^4.6.5",
 		"dotenv": "^16.3.1",
 		"redis": "4.7.0",
 		"@nerimity/mimiqueue": "1.2.3"
